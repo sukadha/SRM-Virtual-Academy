@@ -63,6 +63,4 @@ For support and questions:
 - Website: [www.srmvirtualacademy.edu](https://www.srmvirtualacademy.edu)
 - Documentation: Check our comprehensive docs for detailed guides
 
-my** - Empowering learners worldwide with flexible, high-quality online education.
 
-*Watch. Learn. Grow.*
