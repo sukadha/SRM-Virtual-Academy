@@ -1,12 +1,68 @@
-# React + Vite
+# SRM Virtual Academy
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, interactive online learning platform built with React that provides unlimited access to 100+ instructors across multiple categories including Marketing, Data Analytics, AI/ML-Data Science, and Finance.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#Step - 1
+![EduFinPath](https://github.com/sukadha/SRM-Virtual-Academy/blob/main/1.png)
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+#Step - 2
+![EduFinPath](https://github.com/sukadha/SRM-Virtual-Academy/blob/main/2.png)
+
+
+#Step - 3
+![EduFinPath](https://github.com/sukadha/SRM-Virtual-Academy/blob/main/3.png)
+
+
+#Step - 4
+![EduFinPath](https://github.com/sukadha/SRM-Virtual-Academy/blob/main/4.png)
+
+
+#Step - 5
+![EduFinPath](https://github.com/sukadha/SRM-Virtual-Academy/blob/main/5.png)
+
+#versol.com -> project link
+![EduFinPath](https://srm-virtual-academy.vercel.app/)
+
+## 📚 Course Categories
+
+### Marketing (5 courses)
+- Digital Marketing Fundamentals
+- Social Media Marketing
+- Content Marketing Strategy
+- Email Marketing Mastery
+- Marketing Analytics
+
+### Data Analytics (3 courses)
+- Python for Data Analysis
+- Statistical Analysis with R
+- Data Visualization
+
+### AI/ML-Data Science (4 courses)
+- Machine Learning Foundations
+- Deep Learning with TensorFlow
+- Natural Language Processing
+- Computer Vision
+
+### Finance (2 courses)
+- Financial Analysis & Modeling
+- Investment Banking Fundamentals
+
+
+## 👥 Team
+
+- **Development**: SRM Virtual Academy Development Team
+- **Design**: UX/UI Design Team
+- **Content**: Educational Content Specialists
+
+## 📞 Support
+
+For support and questions:
+- Email: support@srmvirtualacademy.edu
+- Website: [www.srmvirtualacademy.edu](https://www.srmvirtualacademy.edu)
+- Documentation: Check our comprehensive docs for detailed guides
+
+my** - Empowering learners worldwide with flexible, high-quality online education.
+
+*Watch. Learn. Grow.*
